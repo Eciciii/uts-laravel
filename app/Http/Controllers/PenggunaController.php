@@ -63,7 +63,6 @@ class PenggunaController extends Controller
         return view('penggunas.show', compact('pengguna'));
     }
 
-    // Implement methods for edit and update if needed
     /**
      * edit
      *
